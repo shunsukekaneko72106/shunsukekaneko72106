@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunsukekaneko72106&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 **Self-introduction**
 
 Thank you for visiting my profile. My name is Shunsuke Kaneko. I have extensive experience as an entrepreneur, engineer, and manager, with the ability to tackle a wide range of challenges in the world of business and technology. Through my experience as an entrepreneur, I am confident in my ability to solve the essential problems that users seek.
@@ -42,5 +44,3 @@ I leverage my past experience to excel in team problem-solving and project manag
 
 I am skilled at developing efficient and user-friendly systems and applications using my programming abilities. I also believe I can contribute to various projects due to my ability to adapt flexibly to new technologies and situations.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunsukekaneko72106
-)](https://github.com/anuraghazra/github-readme-stats)
