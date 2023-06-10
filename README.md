@@ -41,3 +41,6 @@ I leverage my past experience to excel in team problem-solving and project manag
 - Bootstrap
 
 I am skilled at developing efficient and user-friendly systems and applications using my programming abilities. I also believe I can contribute to various projects due to my ability to adapt flexibly to new technologies and situations.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shunsukekaneko72106
+)](https://github.com/anuraghazra/github-readme-stats)
