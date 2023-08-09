@@ -37,7 +37,7 @@ I leverage my past experience to excel in team problem-solving and project manag
 
 *Server:*
 
-- AWS (EC2, S3)
+- AWS (EC2, S3, SES)
 - Render
 
 *Others:*
