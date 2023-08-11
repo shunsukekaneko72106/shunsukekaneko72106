@@ -30,7 +30,7 @@ I leverage my past experience to excel in team problem-solving and project manag
 
 *Programming Languages (Beginner level):*
 
-- Java
+- Java(Spring Boot)
 - Processing
 - Python (Django)
 - jQuery
